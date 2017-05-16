@@ -1,0 +1,16 @@
+PODS:
+  - ios-gif (0.1.0)
+
+DEPENDENCIES:
+  - ios-gif (from `../`)
+
+EXTERNAL SOURCES:
+  ios-gif:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ios-gif: e99f084bbbf746fc08190a1b8d6765524527de68
+
+PODFILE CHECKSUM: 85e19a508a1a6f3413c4ea99b74fb6bc80b57cb0
+
+COCOAPODS: 1.2.1
