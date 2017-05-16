@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ios-gif_Example' do
+  pod 'ios-gif', :path => '../'
+
+  target 'ios-gif_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
